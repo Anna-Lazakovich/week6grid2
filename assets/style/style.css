@@ -27,12 +27,12 @@ header {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-    gap: 15px;
+    grid-gap: 10px;
 }
 
 .item {
     padding: 20px;
-    margin: 15px 15px;
+    margin: 10px 10px;
     background-color: rgb(214, 226, 48);
 }
 
